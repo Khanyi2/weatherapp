@@ -65,9 +65,8 @@ main {
   color: #f65282;
 }
 
-.weather-app-temperature-container {
+.weather-app-temp-container {
   display: flex;
-  align-items: baseline;
 }
 
 .weather-app-icon {
